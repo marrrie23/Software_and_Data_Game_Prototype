@@ -1,5 +1,5 @@
 ## The Journey of a Refugee Girl
-#### This is the first chapter of our proposed game for Software and Data in Culture - University of Groningen
+#### This is the first chapter of our proposed game for Software and Data as Culture - University of Groningen
 
 *Instructions:*
 - Click the green code button and download the ZIP file
