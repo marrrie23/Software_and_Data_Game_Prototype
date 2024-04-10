@@ -10,9 +10,11 @@
 - If you encounter any problems, such as not being able to see options to click on or the prototype ending before the line, “Though you’re apprehensive, you try to keep your spirits up, remembering to honor your father’s words.”, use another browser such as Firefox
 - If there are still issues, please contact us
 
+
 Hope you enjoy our prototype!
 
-Contributors:
+
+*Contributors:*
 - Anika Falkenberg
 - Maria Kutepova
 - Lotte Telnekes
