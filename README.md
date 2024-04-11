@@ -17,5 +17,5 @@ Hope you enjoy our prototype!
 *Contributors:*
 - Anika Falkenberg (Script & Instructions)
 - Maria Kutepova (DALL-E, Script & GitHub)
-- Lotte Telnekes (Inkle, Script & Github)
+- Lotte Telnekes (Inkle, Script & GitHub)
 - Josie Wisowaty (DALL-E & Script) 
