@@ -18,4 +18,4 @@ Hope you enjoy our prototype!
 - Anika Falkenberg (Script & Instructions)
 - Maria Kutepova (DALL-E, Script & GitHub)
 - Lotte Telnekes (Inkle, Script & Github)
-- Josie Wisowaty (DALL-E, Script) 
+- Josie Wisowaty (DALL-E & Script) 
